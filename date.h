@@ -1,9 +1,4 @@
-/*
-Author: Shonel Rahim
-Course: 135
-Instructor: Raffi Khatchadourian
-Assignment: Project3 date header file
-*/
+
 #ifndef DATE_H
 #define DATE_H
 
