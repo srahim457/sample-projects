@@ -1,6 +1,7 @@
 # sample-projects
 
 Calendar:
+
 This is a kind of calendar program that takes a date input by the user and outputs the modern time of that date, the day of the week and how many days until the next holiday. The program takes leap years into account when doing all the computations.
 
 The modern time is the number of days since day 0, which is January 1, 1901.
